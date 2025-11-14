@@ -1,0 +1,11 @@
+題目,選項A,選項B,選項C,選項D,正確答案,解析
+什麼是JavaScript中的變數宣告關鍵字？,var,const,let,以上皆是,D,JavaScript中var、const、let都是變數宣告關鍵字
+CSS中用於設定文字顏色的屬性是？,background-color,color,font-color,text-color,B,CSS中color屬性用於設定文字顏色
+HTML文件的根元素是？,head,body,html,document,C,HTML文件的根元素是<html>標籤
+在p5.js中用於繪製矩形的函數是？,rect(),square(),rectangle(),box(),A,rect()函數用於在p5.js中繪製矩形
+JavaScript中用於輸出訊息到控制台的方法是？,alert(),print(),console.log(),document.write(),C,console.log()用於在瀏覽器控制台輸出訊息
+CSS中的box-model包含哪些部分？,內容和邊框,內容、內距、邊框和外距,只有內容,內容和外距,B,CSS盒模型包含內容、內距、邊框和外距四個部分
+p5.js中的setup()函數的作用是？,重複執行程式碼,初始化設定,繪製圖形,處理事件,B,setup()函數在程式開始時執行一次用於初始化設定
+HTML中用於創建超連結的標籤是？,link,href,anchor,a,D,<a>標籤用於創建超連結
+CSS中用於設定元素位置的屬性是？,location,place,position,align,C,position屬性用於設定元素的定位方式
+在p5.js中創建畫布的函數是？,canvas(),createCanvas(),makeCanvas(),newCanvas(),B,createCanvas()函數用於創建p5.js畫布
